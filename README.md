@@ -1,2 +1,2 @@
 # Proja2public
-Project example
+Project examples.
